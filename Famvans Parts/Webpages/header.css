@@ -1,0 +1,168 @@
+
+body {
+   margin: 0;
+   font-family: 'Roboto', sans-serif;
+   
+}
+
+h1, h2, h3 {
+   color: #000000;
+   font-weight: 900;
+}  
+
+
+/* Header Styles */
+
+
+header { 
+      background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
+      color: #000000;
+      padding: 15px 20px;
+      /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); */
+      position: sticky;
+      top: 0;
+      z-index: 100;  
+      border-bottom: 2px solid #e0e0e0;
+}
+
+/* Navigation */
+nav ul { 
+   list-style: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 30px;
+   flex-wrap: wrap;
+}
+
+nav li {
+   display: flex;
+   align-items: center;
+}  
+
+nav a {
+   color: #000000;
+   text-decoration: none;
+   font-weight: 700;
+   font-size: 17px;
+   transition: all 0.3s ease;
+   padding: 8px 12px;
+   border-radius: 4px;
+   position: relative;
+}  
+
+nav a:hover {
+   color: #ffc107;
+   background-color: rgba(255, 193, 7, 0.1);
+}
+
+nav a::after {
+   content: '';
+   position: absolute;
+   bottom: 0;
+   left: 50%;
+   width: 0;
+   height: 2px;   
+   background-color: #ffc107;
+   transition: all 0.3s ease;
+   transform: translateX(-50%);
+}
+
+nav a:hover::after {
+   width: 80%;
+}  
+
+
+.logo {
+   display: flex;
+   align-items: center;
+   padding: 0 !important;
+   width: 160px;
+   height: auto;  
+   transition: transform 0.3s ease;
+
+}
+
+.logo:hover {
+   transform: scale(1.05);
+}
+
+.cart {
+   display: flex;
+   gap: 10px;
+   align-items: center;
+
+}
+
+.cart a {
+   font-size: 18px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 40px;
+   height: 40px;
+   border-radius: 50%;
+   background-color: rgba(255, 255, 255, 0.1);
+   transition: all 0.3s ease;
+}
+
+
+.cart a::after {
+   display: none;
+}
+
+/* Responsive Design */
+
+.logo-link {
+   width: 150px;
+   height: auto;
+   transition: transform 0.3s ease;
+   margin-left: 120px;
+   margin-right: 120px;
+}
+
+.logo-link:hover {
+   transform: scale(1.05);
+}
+
+nav a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background-color: #ffc107;
+    transition: all 0.3s ease;
+    transform: translateX(-50%);
+}
+
+nav a:hover::after {
+    width: 80%;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .logo-link {
+        margin: 0;
+    } 
+
+    
+   
+}
+
+
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .logo-link {
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+
+}
