@@ -1,8 +1,6 @@
-
 body {
    margin: 0;
    font-family: 'Roboto', sans-serif;
-   
 }
 
 h1, h2, h3 {
@@ -10,19 +8,16 @@ h1, h2, h3 {
    font-weight: 900;
 }  
 
-
 /* Header Styles */
-
-
 header { 
-      background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
-      color: #000000;
-      padding: 15px 20px;
-      /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); */
-      position: sticky;
-      top: 0;
-      z-index: 100;  
-      border-bottom: 2px solid #e0e0e0;
+   background: #ffffff;
+   color: #000000;
+   padding: 20px 40px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+   position: sticky;
+   top: 0;
+   z-index: 100;  
+   border-bottom: 1px solid #e8e8e8;
 }
 
 /* Navigation */
@@ -31,8 +26,10 @@ nav ul {
    display: flex;
    justify-content: center;
    align-items: center;
-   gap: 30px;
+   gap: 40px;
    flex-wrap: wrap;
+   margin: 0;
+   padding: 0;
 }
 
 nav li {
@@ -41,25 +38,26 @@ nav li {
 }  
 
 nav a {
-   color: #000000;
+   color: #333333;
    text-decoration: none;
-   font-weight: 700;
-   font-size: 17px;
+   font-weight: 600;
+   font-size: 15px;
+   letter-spacing: 0.3px;
    transition: all 0.3s ease;
-   padding: 8px 12px;
-   border-radius: 4px;
+   padding: 8px 16px;
+   border-radius: 6px;
    position: relative;
 }  
 
 nav a:hover {
    color: #ffc107;
-   background-color: rgba(255, 193, 7, 0.1);
+   background-color: rgba(255, 193, 7, 0.08);
 }
 
 nav a::after {
    content: '';
    position: absolute;
-   bottom: 0;
+   bottom: -2px;
    left: 50%;
    width: 0;
    height: 2px;   
@@ -69,9 +67,8 @@ nav a::after {
 }
 
 nav a:hover::after {
-   width: 80%;
+   width: 70%;
 }  
-
 
 .logo {
    display: flex;
@@ -80,89 +77,116 @@ nav a:hover::after {
    width: 160px;
    height: auto;  
    transition: transform 0.3s ease;
-
 }
 
 .logo:hover {
    transform: scale(1.05);
 }
 
+.logo::after {
+   display: none;
+}
+
 .cart {
    display: flex;
-   gap: 10px;
+   gap: 16px;
    align-items: center;
-
 }
 
 .cart a {
-   font-size: 18px;
+   font-size: 20px;
    display: flex;
    align-items: center;
    justify-content: center;
-   width: 40px;
-   height: 40px;
-   border-radius: 50%;
-   background-color: rgba(255, 255, 255, 0.1);
+   width: 44px;
+   height: 44px;
+   border-radius: 8px;
+   background-color: #f8f8f8;
+   border: 1px solid #e8e8e8;
    transition: all 0.3s ease;
+   color: #333333;
+   position: relative;
 }
 
+.cart a:hover {
+   background-color: #ffc107;
+   border-color: #ffc107;
+   color: #ffffff;
+   transform: translateY(-2px);
+   box-shadow: 0 4px 8px rgba(255, 193, 7, 0.3);
+}
 
 .cart a::after {
    display: none;
 }
 
-/* Responsive Design */
+/* Icon Badge (optional - for cart count) */
+.cart a[data-count]::before {
+   content: attr(data-count);
+   position: absolute;
+   top: -6px;
+   right: -6px;
+   background-color: #ff4444;
+   color: white;
+   font-size: 11px;
+   font-weight: 700;
+   padding: 2px 6px;
+   border-radius: 10px;
+   min-width: 18px;
+   text-align: center;
+}
 
+/* Responsive Design */
 .logo-link {
    width: 150px;
    height: auto;
    transition: transform 0.3s ease;
    margin-left: 120px;
    margin-right: 120px;
+   padding: 0;
 }
 
 .logo-link:hover {
    transform: scale(1.05);
 }
 
-nav a::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 0;
-    height: 2px;
-    background-color: #ffc107;
-    transition: all 0.3s ease;
-    transform: translateX(-50%);
+.logo-link::after {
+   display: none;
 }
-
-nav a:hover::after {
-    width: 80%;
-}
-
-
 
 @media screen and (max-width: 768px) {
-    nav ul {
-        flex-direction: column;
-        gap: 15px;
-    }
-
-    .logo-link {
-        margin: 0;
-    } 
-
-    
+   header {
+      padding: 15px 20px;
+   }
    
+   nav ul {
+      flex-direction: column;
+      gap: 12px;
+   }
+   
+   .logo-link {
+      margin: 0 0 10px 0;
+      width: 130px;
+   }
+   
+   .cart {
+      margin-top: 10px;
+   }
+   
+   .cart a {
+      width: 40px;
+      height: 40px;
+      font-size: 18px;
+   }
 }
 
-
-
 @media (min-width: 769px) and (max-width: 1024px) {
-    .logo-link {
-        margin-left: 60px;
-        margin-right: 60px;
-    }
-
+   .logo-link {
+      margin-left: 60px;
+      margin-right: 60px;
+   }
+   
+   nav ul {
+      gap: 30px;
+   }
 }
