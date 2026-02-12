@@ -1,0 +1,2244 @@
+{
+  "inventory": {
+    "bulkheads_dividers_partitions_panels": [
+      {
+        "brand": "Holman",
+        "part_number": "40669SH",
+        "part_description": "High Roof Sprinter Wing Kit",
+        "vehicle_fitment": "2007 - 2024 Mercedes Sprinter High Roof",
+        "quantity_on_hand": 6,
+        "fam_cost": 232.80,
+        "retail_price": 465.05,
+        "labor_hours": 1.5,
+        "job_price": 802.55
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40640",
+        "part_description": "Partition - Perforated - Low",
+        "vehicle_fitment": "Ford Transit Low Roof, GMC Savana, Metris, NV Low Roof, Chevy Express",
+        "quantity_on_hand": 6,
+        "fam_cost": 263.40,
+        "retail_price": 525.94,
+        "labor_hours": 1.5,
+        "job_price": 863.44
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40670",
+        "part_description": "Partition - Perforated Comp Vans",
+        "vehicle_fitment": "Ford Transit Connect (2014+), Nissan NV200, Chevy City Express, Ram ProMaster City",
+        "quantity_on_hand": 5,
+        "fam_cost": 0.00,
+        "retail_price": 661.03,
+        "labor_hours": 1.0,
+        "job_price": 886.03
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40660",
+        "part_description": "Partition Perforated Transit Mid/High Roof, Sprinter roof NV High roof",
+        "vehicle_fitment": "Ford Transit Mid/High Roof",
+        "quantity_on_hand": 4,
+        "fam_cost": 292.80,
+        "retail_price": 540.34,
+        "labor_hours": 1.5,
+        "job_price": 877.84
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40661",
+        "part_description": "Partition Solid T Mid/High Roof",
+        "vehicle_fitment": "Ford Transit Mid/High Roof",
+        "quantity_on_hand": 4,
+        "fam_cost": 292.80,
+        "retail_price": 540.34,
+        "labor_hours": 0.5,
+        "job_price": 652.84
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40649TL",
+        "part_description": "Partition Wing Kit - Transit Low Roof",
+        "vehicle_fitment": "Ford Transit Low Roof",
+        "quantity_on_hand": 5,
+        "fam_cost": 171.60,
+        "retail_price": 342.14,
+        "labor_hours": 1.5,
+        "job_price": 679.64
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40641",
+        "part_description": "Common Low Roof Partition Panels Solid Center & Curb Fixed Center",
+        "vehicle_fitment": "Ford Transit Low Roof, GM Full Size Cargo Vans, Mercedes Metris, Nissan NV Low Roof",
+        "quantity_on_hand": 4,
+        "fam_cost": 262.80,
+        "retail_price": 524.84,
+        "labor_hours": 0.5,
+        "job_price": 637.34
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40652",
+        "part_description": "Common MID Roof Partition - Solid Grey",
+        "vehicle_fitment": "Nissan NV High Roof, Mercedes Sprinter Low Roof, Ram ProMaster Mid/High Roof",
+        "quantity_on_hand": 4,
+        "fam_cost": 262.80,
+        "retail_price": 524.84,
+        "labor_hours": 0.5,
+        "job_price": 637.34
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40669TH",
+        "part_description": "Partition Wing Kit - Transit High Roof",
+        "vehicle_fitment": "Ford Transit High Roof",
+        "quantity_on_hand": 3,
+        "fam_cost": 242.40,
+        "retail_price": 483.87,
+        "labor_hours": 1.5,
+        "job_price": 821.37
+      },
+      {
+        "brand": "Holman",
+        "part_number": "406NH",
+        "part_description": "Nissan NV High Roof Wing Kit",
+        "vehicle_fitment": "Nissan NV High Roof",
+        "quantity_on_hand": 2,
+        "retail_price": 367.01,
+        "labor_hours": 1.5,
+        "job_price": 704.51
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40651",
+        "part_description": "Partition - Perforated - Mid",
+        "vehicle_fitment": "Nissan NV High Roof, Sprinter Standard Roof, ProMaster Low/High Roof",
+        "quantity_on_hand": 3,
+        "fam_cost": 263.40,
+        "retail_price": 525.94,
+        "labor_hours": 1.5,
+        "job_price": 863.44
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4064P",
+        "part_description": "Partition Wing Kit - Promaster Low/High Roof",
+        "vehicle_fitment": "Ram ProMaster Std/High/Super High Roof",
+        "quantity_on_hand": 3,
+        "fam_cost": 262.20,
+        "retail_price": 522.62,
+        "labor_hours": 1.5,
+        "job_price": 860.12
+      },
+      {
+        "brand": "Homan",
+        "part_number": "40669TM",
+        "part_description": "Partition Wing Kit - Transit Mid Roof - For use with 4066X partitions",
+        "vehicle_fitment": "Ford Transit Mid Roof",
+        "quantity_on_hand": 1,
+        "retail_price": 444.01,
+        "labor_hours": 1.5,
+        "job_price": 781.51
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "406SL",
+        "part_description": "Sprinter Low Roof",
+        "vehicle_fitment": "2007 - 2024 Mercedes Sprinter Low Roof",
+        "quantity_on_hand": 3,
+        "fam_cost": 172.80,
+        "retail_price": 345.46,
+        "labor_hours": 1.5,
+        "job_price": 682.96
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4064M",
+        "part_description": "Metris Wing Kit",
+        "vehicle_fitment": "Metris",
+        "quantity_on_hand": 3,
+        "retail_price": 285.67,
+        "labor_hours": 0.8,
+        "job_price": 465.67
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "406GM",
+        "part_description": "GM Wing Kit (Shoulder Mount)",
+        "vehicle_fitment": "GMC Savana, Chevy Express",
+        "quantity_on_hand": 2,
+        "fam_cost": 152.40,
+        "retail_price": 304.49,
+        "labor_hours": 1.5,
+        "job_price": 641.99
+      },
+      {
+        "brand": "Ranger Design",
+        "part_number": "C20-NL",
+        "part_description": "Small Partition",
+        "vehicle_fitment": "Nissan NV Standard Roof",
+        "quantity_on_hand": 3,
+        "retail_price": 903.00,
+        "labor_hours": 1.0,
+        "job_price": 1128.00
+      },
+      {
+        "brand": "Ranger Design",
+        "part_number": "C20-GS",
+        "part_description": "Partition Straight Full Size Van",
+        "vehicle_fitment": "Chevrolet Express and GMC Savana full-size vans",
+        "quantity_on_hand": 1,
+        "retail_price": 903.00,
+        "labor_hours": 1.0,
+        "job_price": 1128.00
+      },
+      {
+        "brand": "Ranger Design",
+        "part_number": "C30-FTL",
+        "part_description": "Van Partition, Swing Door, Ford Transit LR",
+        "vehicle_fitment": "Ford Transit Low Roof",
+        "quantity_on_hand": 1,
+        "retail_price": 1070.00,
+        "labor_hours": 1.5,
+        "job_price": 1407.50
+      },
+      {
+        "brand": "Ranger Design",
+        "part_number": "C24-X",
+        "part_description": "Walk Through Partition Kit",
+        "vehicle_fitment": "Ram Promaster",
+        "quantity_on_hand": 1,
+        "retail_price": 947.70,
+        "labor_hours": 1.0,
+        "job_price": 1172.70
+      },
+      {
+        "brand": "VSPEC TECHNO (B-Stock)",
+        "part_number": "V-BLK-FOTM-SL",
+        "part_description": "TRANSIT MED ROOF SLIDING DOOR (E-TRANSIT COMPATIBLE) BULKHEAD",
+        "vehicle_fitment": "Ford Transit 150, 250, 350 models (2015-2024/2025) with a medium roof",
+        "quantity_on_hand": 2,
+        "retail_price": 1280.00,
+        "labor_hours": 1.0,
+        "job_price": 1505.00
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "96302-3-01",
+        "part_description": "Screen Bulkhead, Low-Roof, Ford Transit",
+        "vehicle_fitment": "Ford Transit Low Roof",
+        "quantity_on_hand": 2,
+        "retail_price": 588.00,
+        "labor_hours": 1.0,
+        "job_price": 813.00
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "96514-3-01",
+        "part_description": "Bulkhead Window Chevy City Express/NV200",
+        "vehicle_fitment": "Chevy City Express/NV200",
+        "quantity_on_hand": 3,
+        "retail_price": 584.45,
+        "labor_hours": 0.8,
+        "job_price": 764.45
+      }
+    ],
+    "mounts_clamp_and_lock": [
+      {
+        "brand": "Holman",
+        "part_number": "4089P",
+        "part_description": "Mount Kit - Promaster For 40890/4089A",
+        "vehicle_fitment": "Ram Promaster",
+        "quantity_on_hand": 1,
+        "fam_cost": 73.80,
+        "retail_price": 147.26,
+        "labor_hours": 0.3,
+        "job_price": 214.76
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4081S",
+        "part_description": "Sprinter Aluminium Rail Mount Kit ( Use to Mount 4097M/4099H) White",
+        "vehicle_fitment": "Sprinter",
+        "quantity_on_hand": 1,
+        "fam_cost": 216.60,
+        "retail_price": 431.83,
+        "labor_hours": 0.5,
+        "job_price": 544.33
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4092L",
+        "part_description": "Combo Ladder Rack Kit - Drop Down / Clamp & Lock - Transit LR",
+        "vehicle_fitment": "Ford Transit Low Roof",
+        "quantity_on_hand": 2,
+        "fam_cost": 1138.80,
+        "retail_price": 1562.33,
+        "labor_hours": 1.8,
+        "job_price": 1967.33
+      },
+      {
+        "brand": "Holman",
+        "part_number": "408TC",
+        "part_description": "Clamp & Lock Ladder Rack Kit - Double - Transit LR",
+        "vehicle_fitment": "Ford Transit Low Roof",
+        "quantity_on_hand": 3,
+        "fam_cost": 723.60,
+        "retail_price": 349.89,
+        "labor_hours": 1.3,
+        "job_price": 642.39
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4081L",
+        "part_description": "Clamp and Lock Mechanism Only (Add to 4080L/4082L/40933) White",
+        "vehicle_fitment": "Universal to most low roof and compact vans",
+        "quantity_on_hand": 2,
+        "fam_cost": 180.00,
+        "retail_price": 358.75,
+        "labor_hours": 0.5,
+        "job_price": 471.25
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4080L",
+        "part_description": "Single Clamp and lock ladder rack for compact van",
+        "vehicle_fitment": "Chevy City Express, Ford Transit Connect, Nissan NV 200, Ram ProMaster City",
+        "quantity_on_hand": 2,
+        "fam_cost": 488.40,
+        "retail_price": 974.38,
+        "labor_hours": 0.5,
+        "job_price": 1086.88
+      },
+      {
+        "brand": "Holman",
+        "part_number": "409CD",
+        "part_description": "Tall Mount Kit For Chevy and GM Vans White",
+        "vehicle_fitment": "Savana/City Express",
+        "quantity_on_hand": 2,
+        "retail_price": 193.77,
+        "labor_hours": 0.5,
+        "job_price": 306.27
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4092L",
+        "part_description": "Low Roof Single Drop Down w/o Mount Kit White",
+        "vehicle_fitment": "Chevy Express, Low Roof Ford Transit, Mercedes Metris, GMS Savana, Nissan NV",
+        "quantity_on_hand": 2,
+        "fam_cost": 783.60,
+        "retail_price": 1562.33,
+        "labor_hours": 0.8,
+        "job_price": 1742.33
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4089C",
+        "part_description": "Van Rack Mount Kit GM Black",
+        "vehicle_fitment": "Chevy Express, GMC Savana",
+        "quantity_on_hand": 3,
+        "fam_cost": 118.20,
+        "retail_price": 235.84,
+        "labor_hours": 0.3,
+        "job_price": 303.34
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4089T",
+        "part_description": "Mount Kit - Transit/NV/Sprinter for 80160/8016A Van Racks",
+        "vehicle_fitment": "Ford Transit, Mercedes Sprinter, Nissan NV",
+        "quantity_on_hand": 4,
+        "fam_cost": 106.80,
+        "retail_price": 197.09,
+        "labor_hours": 0.3,
+        "job_price": 264.59
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4081T",
+        "part_description": "Transit/NV Van Steel Rail Mount Kit",
+        "vehicle_fitment": "Ford Transit/Nissan NV",
+        "quantity_on_hand": 1,
+        "retail_price": 615.63,
+        "labor_hours": 0.5,
+        "job_price": 728.13
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "408TC",
+        "part_description": "Transit Clamp and lock Ladder Mount Kit",
+        "vehicle_fitment": "Ford Transit",
+        "quantity_on_hand": 3,
+        "fam_cost": 175.20,
+        "retail_price": 349.89,
+        "labor_hours": 0.5,
+        "job_price": 462.39
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4A82T",
+        "part_description": "Mount Kit - Crossbar Rack - Transit",
+        "vehicle_fitment": "Ford Transit",
+        "quantity_on_hand": 3,
+        "retail_price": 176.05,
+        "labor_hours": 0.5,
+        "job_price": 288.55
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40813",
+        "part_description": "Clamp and lock Mechanism Only (Add to 40873 and 40933) White",
+        "vehicle_fitment": "Ford Transit Connect, Chevy City Express, Nissan NV200, and Ram ProMaster City",
+        "quantity_on_hand": 4,
+        "retail_price": 245.97,
+        "labor_hours": 0.5,
+        "job_price": 358.47
+      },
+      {
+        "brand": "Prime Design",
+        "part_number": "CC-FT-78-M",
+        "part_description": "Ergorack Ford Low Roof",
+        "vehicle_fitment": "Ford Transit Low Roof",
+        "quantity_on_hand": 3,
+        "retail_price": 1327.90,
+        "labor_hours": 1.5,
+        "job_price": 1665.40
+      }
+    ],
+    "flooring_floor_mats": [
+      {
+        "brand": "Holman B-Stock",
+        "part_number": "40476TL",
+        "part_description": "Ford Transit 148\" WB Flooring w/o Mounting Tracks",
+        "vehicle_fitment": "2015+ Ford Transit 148\" WB",
+        "quantity_on_hand": 1,
+        "fam_cost": 604.20,
+        "retail_price": 1115.00,
+        "labor_hours": 0.2,
+        "job_price": 1160.00
+      }
+    ],
+    "ladder_racks_crossbar_racks_cargo_racks": [
+      {
+        "brand": "Holman",
+        "part_number": "40480",
+        "part_description": "Van Interior Ladder Rack White",
+        "vehicle_fitment": "2015+ Ford Transit 148\" WB, Ford Transit, Mercedes Sprinter, Nissan NV, Ram Promaster",
+        "quantity_on_hand": 4,
+        "fam_cost": 255.60,
+        "retail_price": 510.44,
+        "labor_hours": 0.5,
+        "job_price": 622.94
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40821",
+        "part_description": "Crossbar Aluminium Rack For Transit",
+        "vehicle_fitment": "Transit, Transit Connect, Metris, NV, NV200, ProMaster City",
+        "quantity_on_hand": 2,
+        "fam_cost": 227.40,
+        "retail_price": 453.97,
+        "labor_hours": 1.0,
+        "job_price": 678.97
+      },
+      {
+        "brand": "Holman",
+        "part_number": "80160",
+        "part_description": "Cargo Rack PRO III Steel - Low Roof Transit, NV & ProMaster, Std Roof Sprinter, GM",
+        "vehicle_fitment": "Transit, NV & ProMaster, Sprinter, GM",
+        "quantity_on_hand": 2,
+        "fam_cost": 748.80,
+        "retail_price": 1381.85,
+        "labor_hours": 1.3,
+        "job_price": 1674.35
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40823",
+        "part_description": "Crossbar Rack - GM",
+        "vehicle_fitment": "Chevy Express, GMC Savana",
+        "quantity_on_hand": 1,
+        "fam_cost": 216.60,
+        "retail_price": 431.83,
+        "labor_hours": 0.6,
+        "job_price": 566.83
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40943",
+        "part_description": "Drop Down Ladder Racks Driver Side Mechanism - Compact Vans (Add to 40933)",
+        "vehicle_fitment": "Compact Vans",
+        "quantity_on_hand": 1,
+        "fam_cost": 595.20,
+        "retail_price": 1186.97,
+        "labor_hours": 1.0,
+        "job_price": 1411.97
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "80080",
+        "part_description": "PRO III 5 Crossbar Van Roof Silver",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 1149.99,
+        "labor_hours": 1.0,
+        "job_price": 1374.99
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4A821",
+        "part_description": "Crossbar Aluminium Rack For Transit",
+        "vehicle_fitment": "Ford Transit, Mercedes Sprinter, Ram ProMaster (40918 required to mount), Nissan NV, Chevy City Express, Ram ProMaster City, Mercedes Metris, Ford Transit Connect, Nissan NV200",
+        "quantity_on_hand": 1,
+        "fam_cost": 305.40,
+        "retail_price": 608.99,
+        "labor_hours": 0.5,
+        "job_price": 721.49
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "8010A",
+        "part_description": "100\" Aluminium Cargo Rack",
+        "vehicle_fitment": "Comact Vans or Trucks",
+        "quantity_on_hand": 3,
+        "fam_cost": 637.20,
+        "retail_price": 1270.02,
+        "labor_hours": 1.0,
+        "job_price": 1495.02
+      },
+      {
+        "brand": "Holman",
+        "part_number": "8012A",
+        "part_description": "Cargo Rack - PRO III HD Aluminium - Tracks w/cap - 120\" L",
+        "vehicle_fitment": "Transit Connect/Promaster City/NV200/City Express",
+        "quantity_on_hand": 3,
+        "fam_cost": 715.20,
+        "retail_price": 1319.84,
+        "labor_hours": 1.0,
+        "job_price": 1544.84
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1022W",
+        "part_description": "H1 Rack 2 Bar System For a Chevorlet Express 1996 On White",
+        "vehicle_fitment": "Chevy Express",
+        "quantity_on_hand": 6,
+        "retail_price": 409.00,
+        "labor_hours": 1.0,
+        "job_price": 634.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1023W",
+        "part_description": "H1 Rack 3 Bar System For a Chevorlet Express 1996 On White",
+        "vehicle_fitment": "Chevy Express",
+        "quantity_on_hand": 1,
+        "retail_price": 589.00,
+        "labor_hours": 1.5,
+        "job_price": 926.50
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1082W",
+        "part_description": "Steel H1 Rack 2 Bar System For a Ford Econoline",
+        "vehicle_fitment": "Ford Econoline 1992-On",
+        "quantity_on_hand": 4,
+        "retail_price": 409.00,
+        "labor_hours": 1.0,
+        "job_price": 634.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1083W",
+        "part_description": "Steel H1 Rack 3 Bar System For a Ford Econoline",
+        "vehicle_fitment": "Ford Econoline 1992-On",
+        "quantity_on_hand": 2,
+        "retail_price": 589.00,
+        "labor_hours": 1.5,
+        "job_price": 926.50
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1332W",
+        "part_description": "H1 2 Bar Steel for Mercedes Benz Metris 2016 Never White",
+        "vehicle_fitment": "Mercedes Benz Metris 2016-On",
+        "quantity_on_hand": 5,
+        "retail_price": 499.00,
+        "labor_hours": 1.0,
+        "job_price": 724.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1342W",
+        "part_description": "Steel H1 2 Bar Van Rack Stystem For Promaster 2013 On-White",
+        "vehicle_fitment": "ProMaster",
+        "quantity_on_hand": 12,
+        "retail_price": 499.00,
+        "labor_hours": 1.5,
+        "job_price": 836.50
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1343W",
+        "part_description": "Steel H1 3 Bar Van Rack Stystem For Promaster 2013 On-White",
+        "vehicle_fitment": "ProMaster",
+        "quantity_on_hand": 5,
+        "retail_price": 729.00,
+        "labor_hours": 1.5,
+        "job_price": 1066.50
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1602W",
+        "part_description": "H1 2 Bar for Nissan NV200 ladder roof rack 2013 On, White steel",
+        "vehicle_fitment": "Nissan NV200 2013-On",
+        "quantity_on_hand": 5,
+        "retail_price": 449.00,
+        "labor_hours": 1.0,
+        "job_price": 674.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1702W",
+        "part_description": "Transit Connect 2014 H1 2 Bar ladder roof rack low profile 46\" bars steel WHITE",
+        "vehicle_fitment": "Ford Transit Connect 2014+",
+        "quantity_on_hand": 5,
+        "retail_price": 381.65,
+        "labor_hours": 1.0,
+        "job_price": 606.65
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1722W",
+        "part_description": "Transit Cargo 15-ON 2 Bar low profile 54\" Steel White",
+        "vehicle_fitment": "Ford Transit Cargo Van 2015-On",
+        "quantity_on_hand": 8,
+        "retail_price": 449.00,
+        "labor_hours": 1.0,
+        "job_price": 674.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1723W",
+        "part_description": "Transit Cargo 15-ON 3 Bar low profile 54\" Steel White",
+        "vehicle_fitment": "Ford Transit Cargo Van 2015-On",
+        "quantity_on_hand": 2,
+        "retail_price": 649.00,
+        "labor_hours": 1.5,
+        "job_price": 986.50
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H3703W",
+        "part_description": "Transit Cargo 2015-ON H3 bar with 65\" A286 Bars (3 bar)",
+        "vehicle_fitment": "Ford Transit Cargo Van models from 2015 to present",
+        "quantity_on_hand": 4,
+        "retail_price": 729.00,
+        "labor_hours": 1.5,
+        "job_price": 1066.50
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "J1510W",
+        "part_description": "J100 2 bar nissan NV200 Ladder roof Rack 2013 On White",
+        "vehicle_fitment": "Nissan NV200 2014-On",
+        "quantity_on_hand": 1,
+        "retail_price": 319.00,
+        "labor_hours": 1.0,
+        "job_price": 544.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "L003W",
+        "part_description": "Rear Access Ladder Low Top (68 inch) WHITE",
+        "vehicle_fitment": "Sprinter & Nissan NV Low Top",
+        "quantity_on_hand": 3,
+        "retail_price": 379.00,
+        "labor_hours": 0.8,
+        "job_price": 559.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "L004B",
+        "part_description": "83\" Angled Ladder Black",
+        "vehicle_fitment": "Universal High Roof Vans",
+        "quantity_on_hand": 3,
+        "retail_price": 409.00,
+        "labor_hours": 0.8,
+        "job_price": 589.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "L004W",
+        "part_description": "83\" Angled Ladder White",
+        "vehicle_fitment": "Universal High Roof Vans",
+        "quantity_on_hand": 3,
+        "retail_price": 409.00,
+        "labor_hours": 0.8,
+        "job_price": 589.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "J1202W",
+        "part_description": "Transit Connect 2014-On J100 Rack 2 Bar 50\" bars (White)",
+        "vehicle_fitment": "Nissan NV200 and Ford Transit Connect",
+        "quantity_on_hand": 1,
+        "retail_price": 319.00,
+        "labor_hours": 1.0,
+        "job_price": 544.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1392W",
+        "part_description": "H1 Ladder Roof Rack for Mercedes Benz Metris 2016-On",
+        "vehicle_fitment": "Mercedes Benz Metris 2016-On",
+        "quantity_on_hand": 5,
+        "retail_price": 459.00,
+        "labor_hours": 1.0,
+        "job_price": 684.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "J1552W",
+        "part_description": "J1000 2 bar for Mercedes Benz Metris 2016-Never",
+        "vehicle_fitment": "M B Metris 2016-Never",
+        "quantity_on_hand": 7,
+        "retail_price": 459.00,
+        "labor_hours": 1.0,
+        "job_price": 684.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "H1347W",
+        "part_description": "H1 Ladder Roof Rack for RAM ProMaster City 2015-2022",
+        "vehicle_fitment": "RAM ProMaster City 2015-2022",
+        "quantity_on_hand": 6,
+        "retail_price": 449.00,
+        "labor_hours": 1.0,
+        "job_price": 674.00
+      },
+      {
+        "brand": "VanTech",
+        "part_number": "L003B",
+        "part_description": "Rear Access Ladder Low Top (68 inch) BLACK",
+        "vehicle_fitment": "Sprinter & Nissan NV Low Top (68\")",
+        "quantity_on_hand": 3,
+        "retail_price": 379.00,
+        "labor_hours": 0.8,
+        "job_price": 559.00
+      }
+    ],
+    "liftgates_handicap_lifts_liftgate_parts": [
+      {
+        "brand": "Tommy Gate",
+        "part_number": "1 009573",
+        "part_description": "Coiled Cord Pendant Only",
+        "vehicle_fitment": "Universal Mid size to High roof Vans and Cargo vans",
+        "quantity_on_hand": 1,
+        "retail_price": 339.00,
+        "labor_hours": 0.2,
+        "job_price": 384.00
+      },
+      {
+        "brand": "Tommy Gate",
+        "part_number": "1 000987",
+        "part_description": "Replacement Fixed Control",
+        "vehicle_fitment": "Universal Mid size to High roof Vans and Cargo vans",
+        "quantity_on_hand": 1,
+        "retail_price": 229.00,
+        "labor_hours": 0.3,
+        "job_price": 296.50
+      }
+    ],
+    "locks_hooks": [
+      {
+        "brand": "DORMAN",
+        "part_number": "746-194",
+        "part_description": "Door Lock Acuator",
+        "vehicle_fitment": "Universal to Ford vans and trucks",
+        "quantity_on_hand": 2,
+        "retail_price": 66.99,
+        "labor_hours": 1.0,
+        "job_price": 291.99
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40620",
+        "part_description": "Center Panel Latch and Door Lock Kit Silver",
+        "vehicle_fitment": "Compatible with all Holman 3 panel partitions that go into cargo vans",
+        "quantity_on_hand": 6,
+        "fam_cost": 31.20,
+        "retail_price": 63.11,
+        "labor_hours": 0.2,
+        "job_price": 96.86
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40060",
+        "part_description": "J Hook (3 Prongs)",
+        "vehicle_fitment": "Fits any holman shelving system that goes into cargo vans",
+        "quantity_on_hand": 8,
+        "fam_cost": 7.80,
+        "retail_price": 16.61,
+        "labor_hours": 0.2,
+        "job_price": 50.36
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40050",
+        "part_description": "Single J Hook",
+        "vehicle_fitment": "Fits any holman shelving system that goes into cargo vans",
+        "quantity_on_hand": 6,
+        "fam_cost": 9.60,
+        "retail_price": 17.72,
+        "labor_hours": 0.1,
+        "job_price": 40.22
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40051",
+        "part_description": "Swivel Hook",
+        "vehicle_fitment": "Fits any holman shelving system that goes into cargo vans",
+        "quantity_on_hand": 7,
+        "fam_cost": 13.20,
+        "retail_price": 26.57,
+        "labor_hours": 0.1,
+        "job_price": 49.07
+      },
+      {
+        "brand": "J&M",
+        "part_number": "170051",
+        "part_description": "Puck Lock Holder - Alum",
+        "vehicle_fitment": "Goes with Utility -body Vans",
+        "quantity_on_hand": 4,
+        "retail_price": 15.00,
+        "labor_hours": 0.1,
+        "job_price": 37.50
+      },
+      {
+        "brand": "J&M",
+        "part_number": "170001",
+        "part_description": "Puck Lock Holder - Alum",
+        "vehicle_fitment": "Goes with Sprinter Vans",
+        "quantity_on_hand": 2,
+        "retail_price": 225.00,
+        "labor_hours": 2.0,
+        "job_price": 675.00
+      },
+      {
+        "brand": "J&M",
+        "part_number": "170052",
+        "part_description": "Puck Lock Holder - Slick Locks",
+        "vehicle_fitment": "Goes with Utility -body Vans",
+        "quantity_on_hand": 9,
+        "retail_price": 15.00,
+        "labor_hours": 0.2,
+        "job_price": 60.00
+      },
+      {
+        "brand": "Legend",
+        "part_number": "SL1-021-002",
+        "part_description": "Universal Accessories SecuriLock - Slam lock Double lock",
+        "vehicle_fitment": "Universal with both passenger and cargo vans",
+        "quantity_on_hand": 3,
+        "retail_price": 469.24,
+        "labor_hours": 0.8,
+        "job_price": 649.24
+      },
+      {
+        "brand": "Master Lock",
+        "part_number": "770",
+        "part_description": "3/8 in (10mm) Stainless Steel carrige bolts",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 10,
+        "retail_price": 39.35,
+        "labor_hours": 0.4,
+        "job_price": 129.35
+      },
+      {
+        "brand": "Master Lock",
+        "part_number": "484K709",
+        "part_description": "ProSeries Hidden Shackle Paddlock",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 9,
+        "retail_price": 47.34,
+        "labor_hours": 0.4,
+        "job_price": 137.34
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "GM-FVK-1-TK",
+        "part_description": "Chevy/ GM Savana/ Express Hinged Door Complete Turn Key Kit - 1997-Present",
+        "vehicle_fitment": "Chevy/ GM Savana/ Express Hinged Door - 1997-Present",
+        "quantity_on_hand": 5,
+        "retail_price": 244.99,
+        "labor_hours": 1.0,
+        "job_price": 469.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "GM-FVK-SLIDE-TK",
+        "part_description": "Chevy/ GM Savana/ Express Sliding Door Complete Turn Key Kit - 1997-Present",
+        "vehicle_fitment": "Chevy/ GM Savana/ Express Sliding Door - 1997-Present",
+        "quantity_on_hand": 4,
+        "retail_price": 254.99,
+        "labor_hours": 1.0,
+        "job_price": 479.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "FD-FVK-1-TK",
+        "part_description": "Ford Econoline Van Hinged Door Complete Turn Key Kit - 1992-2014",
+        "vehicle_fitment": "Ford Econoline Van Hinged Door - 1992-2014",
+        "quantity_on_hand": 9,
+        "retail_price": 244.99,
+        "labor_hours": 1.0,
+        "job_price": 469.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "FD-TR-HD-FVK-1-TK",
+        "part_description": "Ford Full Size Transit Hinged Door Complete Turn Key Kit - 2015-Present",
+        "vehicle_fitment": "Ford Full Size Transit Hinged Door- 2015-Present",
+        "quantity_on_hand": 6,
+        "retail_price": 244.99,
+        "labor_hours": 1.0,
+        "job_price": 469.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "FD-TR-FVK-SLIDE-TK",
+        "part_description": "Ford Full Size Transit W/Sliding Door Complete Turn Key Kit - 2015-Present",
+        "vehicle_fitment": "Ford Full Size Transit W/Sliding Door - 2015-Present",
+        "quantity_on_hand": 4,
+        "retail_price": 295.00,
+        "labor_hours": 1,
+        "job_price": 520.00
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "FD-TC-FVK-1-TK",
+        "part_description": "Ford Transit Connect Complete Turn Key Kit - 2010-2013",
+        "vehicle_fitment": "Ford Transit Connect - 2010-2013",
+        "quantity_on_hand": 4,
+        "retail_price": 370.99,
+        "labor_hours": 1.0,
+        "job_price": 595.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "FD-TC-FVK-2-TK",
+        "part_description": "Ford Transit Connect Complete Turn Key Kit - 2014-Present",
+        "vehicle_fitment": "Ford Transit Connect",
+        "quantity_on_hand": 4,
+        "retail_price": 370.99,
+        "labor_hours": 1.0,
+        "job_price": 595.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "MET-FVK-SLIDE-TK",
+        "part_description": "MERCEDES METRIS Complete Turn Key Kit - 2015-Present",
+        "vehicle_fitment": "MERCEDES METRIS - 2015-Present",
+        "quantity_on_hand": 8,
+        "retail_price": 254.99,
+        "labor_hours": 1.0,
+        "job_price": 479.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "SP-19-FVK-SLIDE-TK",
+        "part_description": "MERCEDES SPRINTER 2019 - PRESENT COMPLETE TURN KEY KIT",
+        "vehicle_fitment": "MERCEDES SPRINTER 2019 - PRESENT",
+        "quantity_on_hand": 5,
+        "retail_price": 254.99,
+        "labor_hours": 1.0,
+        "job_price": 479.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "SP-FVK-SLIDE-TK",
+        "part_description": "MERCEDES SPRINTER Complete Turn Key Kit - 2007-2018",
+        "vehicle_fitment": "MERCEDES SPRINTER - 2007-2018",
+        "quantity_on_hand": 13,
+        "retail_price": 254.99,
+        "labor_hours": 1.0,
+        "job_price": 479.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "NV-FVK-SLIDE-TK",
+        "part_description": "NISSAN NV Complete Turn Key Kit - 2011-Present Model 1500,2500,3500",
+        "vehicle_fitment": "NISSAN NV 2011-Present Model 1500,2500,3500",
+        "quantity_on_hand": 4,
+        "retail_price": 254.99,
+        "labor_hours": 1.0,
+        "job_price": 479.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "NV-200-FVK-SLIDE-TK OR GM-CE-FVK-SLIDE-TK",
+        "part_description": "NV200 / GM City Express Turn Key Kit",
+        "vehicle_fitment": "GM/GMC CITY EXPRESS -- 2013-Present",
+        "quantity_on_hand": 5,
+        "retail_price": 370.99,
+        "labor_hours": 1.0,
+        "job_price": 595.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "PM-CITY-FVK-SLIDE-TK",
+        "part_description": "Promaster City Complete Turn Key kit - 2015 - Present",
+        "vehicle_fitment": "PROMASTER CITY -  2015-Present",
+        "quantity_on_hand": 5,
+        "retail_price": 370.99,
+        "labor_hours": 1.0,
+        "job_price": 595.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "PM-FVK-SLIDE-TK",
+        "part_description": "PROMASTER Complete Turn Key Kit - 2014-Present",
+        "vehicle_fitment": "PROMASTER - 2014-Present",
+        "quantity_on_hand": 9,
+        "retail_price": 254.99,
+        "labor_hours": 1.0,
+        "job_price": 479.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "SL-AL-PL-2KA",
+        "part_description": "SL-AL-PL 2KA Replacement Aluminum Puck Lock - 2 Pack (Locks Only, Spinner 360 and weather covers sold separately ) Spinners are required for locks.",
+        "vehicle_fitment": "Universal Replacements 2 Pack",
+        "quantity_on_hand": 3,
+        "retail_price": 96.00,
+        "labor_hours": 0.2,
+        "job_price": 141.00
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "SL-AL-PL-3KA",
+        "part_description": "SL-AL-PL 3KA Replacement Aluminum Puck Lock - 3 Pack ( Locks Only, Spinners and covers sold separately ) Spinners are required for locks.",
+        "vehicle_fitment": "Universal replacements 3 Pack",
+        "quantity_on_hand": 5,
+        "retail_price": 144.00,
+        "labor_hours": 0.2,
+        "job_price": 189.00
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "FD-TR-FVK-SLIDE",
+        "part_description": "FORD FULL SIZE TRANSIT SLIDING 2015-PRESENT (SLIDING AND REAR HINGED)",
+        "vehicle_fitment": "Ford Full Size Transit  - 2015-Present",
+        "quantity_on_hand": 10,
+        "retail_price": 175.00,
+        "labor_hours": 0.2,
+        "job_price": 220.00
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "PM-CITY-FVK-SLIDE-TK",
+        "part_description": "PROMASTER CITY Complete Turn Key Kit - 2015-Present",
+        "vehicle_fitment": "PROMASTER CITY  - 2015-Present",
+        "quantity_on_hand": 3,
+        "retail_price": 395.00,
+        "labor_hours": 1.0,
+        "job_price": 620.00
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "FD-FVK-SLIDE-TK",
+        "part_description": "Ford Econoline Van w/Sliding Door Complete Turn Key Kit - 1992-2014",
+        "vehicle_fitment": "Ford Econoline Van Sliding Door - 1992-2014",
+        "quantity_on_hand": 5,
+        "retail_price": 295.00,
+        "labor_hours": 1.0,
+        "job_price": 520.00
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "GM-FVK-1",
+        "part_description": "Chevy/ GM Savana/ Express Hinged Door Blade Bracket - 1997-Present",
+        "vehicle_fitment": "Chevy/ GM Savana/ Express - 1997-Present",
+        "quantity_on_hand": 4,
+        "retail_price": 117.99,
+        "labor_hours": 0.2,
+        "job_price": 162.99
+      },
+      {
+        "brand": "Slick Locks",
+        "part_number": "PM-FVK-SLIDE",
+        "part_description": "PROMASTER Blade Bracket - 2014-Present",
+        "vehicle_fitment": "PROMASTER - 2014-Present",
+        "quantity_on_hand": 5,
+        "retail_price": 136.99,
+        "labor_hours": 0.2,
+        "job_price": 181.99
+      }
+    ],
+    "cameras_rear_view_mirrors_monitors_speakers_radios_security_systems": [
+      {
+        "brand": "Acule Electronics",
+        "part_number": "RVCEXP",
+        "part_description": "Backup Camera",
+        "vehicle_fitment": "Chevy EXP/GM SAVANA",
+        "quantity_on_hand": 1,
+        "retail_price": 129.00,
+        "labor_hours": 1.5,
+        "job_price": 466.50
+      },
+      {
+        "brand": "Camecho",
+        "part_number": "R0030A1N",
+        "part_description": "Truck Backup Camera Heavy Duty 18 LED IR Night Vision Waterproof Vehicle Rear View Camera  12V",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 29.99,
+        "labor_hours": 1.0,
+        "job_price": 254.99
+      },
+      {
+        "brand": "Car Camcorder",
+        "part_number": "PC-73MD",
+        "part_description": "9.66\" Rear View Mirror Dash Cam, 1080p Diual Recording w/ rear camera",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 1,
+        "retail_price": 120.00,
+        "labor_hours": 1.0,
+        "job_price": 345.00
+      },
+      {
+        "brand": "Car Dual",
+        "part_number": "XDVD269BT",
+        "part_description": "Multimedia Reciver with bluetooth",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 98.00,
+        "labor_hours": 1.0,
+        "job_price": 323.00
+      },
+      {
+        "brand": "Concept",
+        "part_number": "NV-MIR-03",
+        "part_description": "5\" LCD Monitor Rearview Mirror with Universal Bracket",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 1,
+        "retail_price": 374.16,
+        "labor_hours": 1.0,
+        "job_price": 599.16
+      },
+      {
+        "brand": "Eco Master Pro III",
+        "part_number": "PS-RDIS-B",
+        "part_description": "Park Alert Digital Rear Sensing System Gloss Black",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 229.00,
+        "labor_hours": 1.5,
+        "job_price": 566.50
+      },
+      {
+        "brand": "Elite Safety",
+        "part_number": "ES - LPFC - BK",
+        "part_description": "Full Frame License Plate Number Camera",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 3,
+        "retail_price": 99.99,
+        "labor_hours": 0.5,
+        "job_price": 212.49
+      },
+      {
+        "brand": "Gampro",
+        "part_number": "AS167",
+        "part_description": "Industrial Backup/Reversing Safety Alarm 12v-80v, 100+dB, set of 4.",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 1,
+        "retail_price": 53.95,
+        "labor_hours": 1.0,
+        "job_price": 278.95
+      },
+      {
+        "brand": "Hong Kang Business",
+        "part_number": "X004JHQYID",
+        "part_description": "High Mount Third Break Light Backup Camera for Ford Transit",
+        "vehicle_fitment": "Ford transit",
+        "quantity_on_hand": 1,
+        "retail_price": 52.00,
+        "labor_hours": 1.0,
+        "job_price": 277.00
+      },
+      {
+        "brand": "Jansite",
+        "part_number": "HD96",
+        "part_description": "Stream Media Rearview Mirror",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 155.00,
+        "labor_hours": 1.0,
+        "job_price": 380.00
+      },
+      {
+        "brand": "JBL",
+        "part_number": "JBLCELEBRITY100",
+        "part_description": "Celebrity 100",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 3,
+        "retail_price": 44.95,
+        "labor_hours": 1.0,
+        "job_price": 269.95
+      },
+      {
+        "brand": "JVC",
+        "part_number": "KW-M590BT",
+        "part_description": "Monitor witrh Receiver",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 1,
+        "retail_price": 269.00,
+        "labor_hours": 1.0,
+        "job_price": 494.00
+      },
+      {
+        "brand": "KASIONVI",
+        "part_number": "PL-USBCP",
+        "part_description": "License plate camera (Black) Built in parking sensors 8IR LEDs",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 27.99,
+        "labor_hours": 0.5,
+        "job_price": 140.49
+      },
+      {
+        "brand": "Kenwood",
+        "part_number": "DMX4707S",
+        "part_description": "Monitor witrh Receiver",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 1,
+        "retail_price": 299.00,
+        "labor_hours": 1.0,
+        "job_price": 524.00
+      },
+      {
+        "brand": "Metra",
+        "part_number": "99-5831B",
+        "part_description": "Fords transit connect 14-18 Radio Kit",
+        "vehicle_fitment": "Ford transit Connect",
+        "quantity_on_hand": 1,
+        "retail_price": 207.99,
+        "labor_hours": 1.0,
+        "job_price": 432.99
+      },
+      {
+        "brand": "Movies to go by Voxx",
+        "part_number": "AVX10USB",
+        "part_description": "10.1\" Universal Seatback",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 267.99,
+        "labor_hours": 0.5,
+        "job_price": 380.49
+      },
+      {
+        "brand": "N/A",
+        "part_number": "N/A",
+        "part_description": "7\" TFT/LED Hi-Res Display Monitor Headrest Shroud and Stand",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 3,
+        "retail_price": 39.99,
+        "labor_hours": 0.5,
+        "job_price": 152.49
+      },
+      {
+        "brand": "N/A",
+        "part_number": "N/A",
+        "part_description": "Car rear view camera",
+        "vehicle_fitment": "Promaster Cargo Van",
+        "quantity_on_hand": 2,
+        "retail_price": 98.00,
+        "labor_hours": 0.5,
+        "job_price": 210.50
+      },
+      {
+        "brand": "Niva",
+        "part_number": "N-CAM-03BA4D",
+        "part_description": "License plate Frame Backup camera",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 1,
+        "retail_price": 30.99,
+        "labor_hours": 0.5,
+        "job_price": 143.49
+      },
+      {
+        "brand": "OEM",
+        "part_number": "20968152",
+        "part_description": "GMCD Radios",
+        "vehicle_fitment": "GM Vans",
+        "quantity_on_hand": 56,
+        "retail_price": 199.95,
+        "labor_hours": 0.3,
+        "job_price": 267.45
+      },
+      {
+        "brand": "Pursuit Remote Security Systems",
+        "part_number": "PRO9233Z",
+        "part_description": "Control And Receive Alarm Notification with optional Carlink Cellular Or Carlink Long range",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 3,
+        "retail_price": 31.70,
+        "labor_hours": 1.0,
+        "job_price": 256.70
+      },
+      {
+        "brand": "Universal Kit",
+        "part_number": "TE-4PSK",
+        "part_description": "Rear Parking assist kit 4 sensors in one",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 74.95,
+        "labor_hours": 1.5,
+        "job_price": 412.45
+      },
+      {
+        "brand": "Venluna",
+        "part_number": "X004BNEA7R",
+        "part_description": "4 PIN Backup Camera",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 5,
+        "retail_price": 28.55,
+        "labor_hours": 0.5,
+        "job_price": 141.05
+      },
+      {
+        "brand": "Viper",
+        "part_number": "VM550",
+        "part_description": "Smart Start Pro",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 199.00,
+        "labor_hours": 0.5,
+        "job_price": 311.50
+      },
+      {
+        "brand": "Viper",
+        "part_number": "3308V",
+        "part_description": "2-Way LCD Security System",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 188.87,
+        "labor_hours": 1.0,
+        "job_price": 413.87
+      }
+    ],
+    "running_boards": [
+      {
+        "brand": "Auto Parts Specalists",
+        "part_number": "IB06FDJ4H",
+        "part_description": "APS iBoard 6-inch stainless steel running boards",
+        "vehicle_fitment": "1999-2014 Ford Econoline Van (Full Size) 3-Door models",
+        "quantity_on_hand": 1,
+        "retail_price": 258.00,
+        "labor_hours": 1.5,
+        "job_price": 595.50
+      },
+      {
+        "brand": "Auto Parts Specalists",
+        "part_number": "IB03FDJ0H",
+        "part_description": "APS iStep 5\" Running Boards Black",
+        "vehicle_fitment": "2003-2026 Chevy Express / GMC Savana Van 3 Door",
+        "quantity_on_hand": 1,
+        "retail_price": 347.20,
+        "labor_hours": 1.5,
+        "job_price": 684.70
+      },
+      {
+        "brand": "Auto Parts Specalists",
+        "part_number": "IB04FDJ1H",
+        "part_description": "APS 6\" H-Series Door-to-Door Black Running Boards",
+        "vehicle_fitment": "2014-2026 Dodge Promaster Van 136 inch/159 inch Wheel Base (Full Size)",
+        "quantity_on_hand": 1,
+        "retail_price": 346.00,
+        "labor_hours": 1.5,
+        "job_price": 683.50
+      },
+      {
+        "brand": "Auto Parts Specalists",
+        "part_number": "IB04EDJ3H",
+        "part_description": "APS 5\" iStep Door-to-Door Black Running Boards",
+        "vehicle_fitment": "2007-2009 Dodge Sprinter, 2007-2009 Freightliner Sprinter,  2010-2026 Mercedes-Benz Sprinter",
+        "quantity_on_hand": 1,
+        "retail_price": 236.72,
+        "labor_hours": 1.5,
+        "job_price": 574.22
+      },
+      {
+        "brand": "Auto Parts Specalists",
+        "part_number": "IB06FDJ5H",
+        "part_description": "APS 6\" Black Stainless Steel Iboards",
+        "vehicle_fitment": "Universal to most cargo and passenger vans",
+        "quantity_on_hand": 3,
+        "retail_price": 360.00,
+        "labor_hours": 1.5,
+        "job_price": 697.50
+      },
+      {
+        "brand": "Tyger",
+        "part_number": "TG-RB2D1103B",
+        "part_description": "2014-2019 Dodge Ram Promaster cargo vans (136\" or 159\" wheel base, both sides)",
+        "vehicle_fitment": "2014-2019 Dodge Ram Promaster cargo vans",
+        "quantity_on_hand": 1,
+        "retail_price": 299.00,
+        "labor_hours": 1.5,
+        "job_price": 636.50
+      },
+      {
+        "brand": "Tyger",
+        "part_number": "WB-RT088B",
+        "part_description": "Universal Blow-Molded Running boards - 88inch (Pair)",
+        "vehicle_fitment": "Universal 88\" long",
+        "quantity_on_hand": 1,
+        "retail_price": 160.00,
+        "labor_hours": 2.0,
+        "job_price": 610.00
+      },
+      {
+        "brand": "Tyger",
+        "part_number": "WB-FN425MD",
+        "part_description": "Running Boards / Side Step Ford Transit",
+        "vehicle_fitment": "2015-2023 Ford Transit Full-Size Van (excludes E-Transit)",
+        "quantity_on_hand": 1,
+        "retail_price": 329.00,
+        "labor_hours": 2.2,
+        "job_price": 824.00
+      }
+    ],
+    "shelves_storage_shelving_accessories": [
+      {
+        "brand": "Holman",
+        "part_number": "48520",
+        "part_description": "Adjustable Shelf Unit 52\" W x 46\"H x 14\" D",
+        "vehicle_fitment": "Ford Transit, Nissan NV, GM Chevy Express, Ram ProMaster, Mercedes Sprinter, GM Savana",
+        "quantity_on_hand": 3,
+        "fam_cost": 407.40,
+        "retail_price": 812.72,
+        "labor_hours": 1.0,
+        "job_price": 1037.72
+      },
+      {
+        "brand": "Holman",
+        "part_number": "48424",
+        "part_description": "Shelf Unit - 42\" W x 14\" D x 60\" H",
+        "vehicle_fitment": "Mid/High Roof Ford Transit, Nissan NV, Ram ProMaster, Mercedes Sprinter",
+        "quantity_on_hand": 4,
+        "fam_cost": 501.60,
+        "retail_price": 999.85,
+        "labor_hours": 1.0,
+        "job_price": 1224.85
+      },
+      {
+        "brand": "Holman",
+        "part_number": "48524",
+        "part_description": "Shelf Unit - 52\" W x 60\" H x 14\" D",
+        "vehicle_fitment": "Mid/High Roof Ford Transit, Nissan NV, Ram ProMaster, Mercedes Sprinter",
+        "quantity_on_hand": 13,
+        "fam_cost": 568.20,
+        "retail_price": 1132.72,
+        "labor_hours": 1.0,
+        "job_price": 1357.72
+      },
+      {
+        "brand": "Holman",
+        "part_number": "48320",
+        "part_description": "Adjustable Shelf Unit 32\" W x 46\"H x 14\" D",
+        "vehicle_fitment": "Ford Transit, GMC Savana, Ram ProMaster, Nissan NV, GMC Chevy Express, Mercedes Metris, Mercedes Sprinter",
+        "quantity_on_hand": 3,
+        "fam_cost": 315.00,
+        "retail_price": 627.81,
+        "labor_hours": 1.0,
+        "job_price": 852.81
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40010",
+        "part_description": "Door Kit 42\" Wide Shelf Unit Grey",
+        "vehicle_fitment": "Compatible with 48420 and 48424",
+        "quantity_on_hand": 7,
+        "fam_cost": 100.80,
+        "retail_price": 201.52,
+        "labor_hours": 0.3,
+        "job_price": 269.02
+      },
+      {
+        "brand": "Holman",
+        "part_number": "48520",
+        "part_description": "Shelf Unit - 52\" W x 46\" H x 14\" D",
+        "vehicle_fitment": "Ford Transit, Nissan NV, GM Chevy Express, Ram ProMaster, Mercedes Sprinter, GM Savana",
+        "quantity_on_hand": 3,
+        "fam_cost": 407.40,
+        "retail_price": 812.72,
+        "labor_hours": 1.0,
+        "job_price": 1037.72
+      },
+      {
+        "brand": "Holman B-Stock",
+        "part_number": "48486",
+        "part_description": "Folding Shelf Unit - 48\" W x 20\" D",
+        "vehicle_fitment": "Universal to Std and High Roof Vans",
+        "quantity_on_hand": 1,
+        "fam_cost": 759.00,
+        "retail_price": 1513.61,
+        "labor_hours": 1.5,
+        "job_price": 1851.11
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "48150",
+        "part_description": "Extra Shelf 52\" W for 48520 & 48524",
+        "vehicle_fitment": "Compatible with 48520 and 48524",
+        "quantity_on_hand": 2,
+        "fam_cost": 75.00,
+        "retail_price": 149.48,
+        "labor_hours": 0.1,
+        "job_price": 171.98
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "48170",
+        "part_description": "Extra Shelf For 48320 & 48324",
+        "vehicle_fitment": "Compatible with 48320 and 48324",
+        "quantity_on_hand": 7,
+        "fam_cost": 52.20,
+        "retail_price": 96.33,
+        "labor_hours": 0.1,
+        "job_price": 118.83
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40040",
+        "part_description": "Door Kit 52\" Wide Shelf",
+        "vehicle_fitment": "Compatible with 48520 and 48524",
+        "quantity_on_hand": 7,
+        "fam_cost": 113.40,
+        "retail_price": 226.99,
+        "labor_hours": 0.3,
+        "job_price": 283.24
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40020",
+        "part_description": "Door Kit for 32\" Wide Shelf",
+        "vehicle_fitment": "Compatible withg 48320 and 48324",
+        "quantity_on_hand": 3,
+        "fam_cost": 90.60,
+        "retail_price": 181.59,
+        "labor_hours": 0.3,
+        "job_price": 249.09
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "48160",
+        "part_description": "Extra Shelf 42\" Wide use with 46420/48424",
+        "vehicle_fitment": "Compatible with 48420, 48424, 48422, 48423, 48542, 43542, and 48042",
+        "quantity_on_hand": 1,
+        "fam_cost": 63.60,
+        "retail_price": 127.33,
+        "labor_hours": 0.1,
+        "job_price": 149.83
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "48180",
+        "part_description": "52\" Shelf Lip Gray",
+        "vehicle_fitment": "Compatible with 48200, 48240, 48424 and 48420",
+        "quantity_on_hand": 25,
+        "fam_cost": 12.00,
+        "retail_price": 24.36,
+        "labor_hours": 0.1,
+        "job_price": 46.86
+      },
+      {
+        "brand": "Vantech",
+        "part_number": "SA4642-2",
+        "part_description": "42\" Wide Aluminium Shelving Unit",
+        "vehicle_fitment": "Ford Transit Connect, Nissan NV200, Chevy City Express, RAM ProMaster City,Mercedes Metris",
+        "quantity_on_hand": 5,
+        "retail_price": 659.00,
+        "labor_hours": 2.0,
+        "job_price": 1109.00
+      },
+      {
+        "brand": "Vantech",
+        "part_number": "SA4842-2",
+        "part_description": "Aluminium Shelving 14\" D, 60\" H, 48\" W 4 Levels",
+        "vehicle_fitment": "Universal to most Low-STD Roof Vans",
+        "quantity_on_hand": 2,
+        "retail_price": 709.00,
+        "labor_hours": 2.0,
+        "job_price": 1159.00
+      },
+      {
+        "brand": "Vantech",
+        "part_number": "SA4860-(3)",
+        "part_description": "Aluminium Shelving",
+        "vehicle_fitment": "Universal to most Low-STD Roof Vans",
+        "quantity_on_hand": 7,
+        "retail_price": 719.00,
+        "labor_hours": 2.0,
+        "job_price": 1169.00
+      },
+      {
+        "brand": "Vantech",
+        "part_number": "SA4848",
+        "part_description": "48\" Aluminum Angled Shelving Unit",
+        "vehicle_fitment": "Universal to most Low-STD Roof Vans",
+        "quantity_on_hand": 1,
+        "job_price": 549.99
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "48190",
+        "part_description": "Shelf Lip 10\" L x 2.75\" H",
+        "vehicle_fitment": "Compatible with 48210, 48250, 48524 and 48520",
+        "quantity_on_hand": 14,
+        "fam_cost": 7.20,
+        "retail_price": 14.39,
+        "labor_hours": 0.1,
+        "job_price": 36.89
+      },
+      {
+        "brand": "Ranger Design",
+        "part_number": "N5-DS48-4",
+        "part_description": "N5 Series Cargo Van Shelving, 48″ Wide, 4 Trays – N5-DS48-4",
+        "vehicle_fitment": "Universal to most STD-High Roof Vans",
+        "quantity_on_hand": 3,
+        "job_price": 950.00
+      },
+      {
+        "brand": "Ranger Design",
+        "part_number": "N4-PS20-8",
+        "part_description": "Partskeeper Parts Organizer Storage Cabinet w/ 8 Carry Cases – N4-PS20-8",
+        "vehicle_fitment": "Universal to Most compact and cargo vans",
+        "quantity_on_hand": 10,
+        "job_price": 1250.00
+      },
+      {
+        "brand": "Ranger Design",
+        "part_number": "5025",
+        "part_description": "Jumbo Tool Drawer for Cargo Vans 48x16x19 – 5025",
+        "vehicle_fitment": "Universal to Most compact and cargo vans",
+        "quantity_on_hand": 7,
+        "job_price": 1600.00
+      },
+      {
+        "brand": "Ranger Design",
+        "part_number": "5045",
+        "part_description": "Lockable Van Cab Storage Box 18x12x16 – 5045",
+        "vehicle_fitment": "Chevrolet Express, GMC Savana, Mercedes-Benz Sprinter, RAM ProMaster, Ford E-Series",
+        "quantity_on_hand": 6,
+        "job_price": 535.00
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40030",
+        "part_description": "Shelf Dividers 6\" Tall (Set of 6) For 48XXX Upper and lower Shelf Grey",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 3,
+        "retail_price": 66.44,
+        "labor_hours": 0.3,
+        "job_price": 133.94
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "302",
+        "part_description": "Pack Rat Dividers 8 1/4\" Tall",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 4,
+        "retail_price": 91.34,
+        "labor_hours": 0.2,
+        "job_price": 136.34
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "9825",
+        "part_description": "Dividers 13 - 1/2 in",
+        "vehicle_fitment": "Universal with cargo van shelving",
+        "quantity_on_hand": 3,
+        "retail_price": 56.35,
+        "labor_hours": 0.3,
+        "job_price": 123.85
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "8114",
+        "part_description": "Short Bin Dividers 14\" Long 4 in each box",
+        "quantity_on_hand": 5,
+        "retail_price": 19.95,
+        "labor_hours": 0.1,
+        "job_price": 42.45
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "9820",
+        "part_description": "Dividers - 10 - 1/2",
+        "vehicle_fitment": "Universal with cargo van shelving",
+        "quantity_on_hand": 2,
+        "retail_price": 43.00,
+        "labor_hours": 0.6,
+        "job_price": 178.00
+      }
+    ],
+    "toolboxes_other_accessories": [
+      {
+        "brand": "American Van",
+        "part_number": "SVM-11",
+        "part_description": "Slide Out Vise Mount",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 3,
+        "retail_price": 320.00,
+        "labor_hours": 2.0,
+        "job_price": 770.00
+      },
+      {
+        "brand": "DORMAN",
+        "part_number": "924-143",
+        "part_description": "Sliding Door Roller Bracket, Lower Roller",
+        "vehicle_fitment": "Chevrolet 2020-96, GMC 2020-96",
+        "quantity_on_hand": 2,
+        "retail_price": 66.99,
+        "labor_hours": 0.2,
+        "job_price": 111.99
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40963",
+        "part_description": "Drop Down Mechanism Only (add to 40953)",
+        "vehicle_fitment": "Low Roof Transit, NV, Metris, Chevy Express, GMC Savana",
+        "quantity_on_hand": 2,
+        "fam_cost": 591.00,
+        "retail_price": 1178.11,
+        "labor_hours": 0.8,
+        "job_price": 1358.11
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40230",
+        "part_description": "Wire Reel Holder - 5 Spindle",
+        "vehicle_fitment": "Universal with Cargo Vans",
+        "quantity_on_hand": 1,
+        "fam_cost": 90.60,
+        "retail_price": 181.59,
+        "labor_hours": 0.3,
+        "job_price": 249.09
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40101",
+        "part_description": "4 Teir Tank Holder Grey",
+        "vehicle_fitment": "All Full Size Vans",
+        "quantity_on_hand": 1,
+        "fam_cost": 246.00,
+        "retail_price": 490.51,
+        "labor_hours": 0.5,
+        "job_price": 603.01
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40102",
+        "part_description": "3 Tier Tank Holder Grey",
+        "vehicle_fitment": "All Full Size Vans",
+        "quantity_on_hand": 3,
+        "fam_cost": 230.40,
+        "retail_price": 425.18,
+        "labor_hours": 0.5,
+        "job_price": 537.68
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40450",
+        "part_description": "Rear Door Safety Grab Handles",
+        "vehicle_fitment": "For All Ford Transit Models",
+        "quantity_on_hand": 4,
+        "fam_cost": 93.60,
+        "retail_price": 187.13,
+        "labor_hours": 0.2,
+        "job_price": 232.13
+      },
+      {
+        "brand": "Holman",
+        "part_number": "40311",
+        "part_description": "Small Parts Shelf Bin - 10\" W Plastic",
+        "vehicle_fitment": "Universal to most shelving for cargo vans",
+        "quantity_on_hand": 19,
+        "fam_cost": 22.20,
+        "retail_price": 44.29,
+        "labor_hours": 0.0,
+        "job_price": 44.29
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40474",
+        "part_description": "Rattle Can Holder (4 Cans)",
+        "vehicle_fitment": "Mounts to van shelving, partitions or doors.",
+        "quantity_on_hand": 1,
+        "fam_cost": 28.80,
+        "retail_price": 57.58,
+        "labor_hours": 0.1,
+        "job_price": 80.08
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40280",
+        "part_description": "Standing Binder Rack",
+        "vehicle_fitment": "Univeral to most Standard and High Roof Vans",
+        "quantity_on_hand": 1,
+        "fam_cost": 131.40,
+        "retail_price": 242.49,
+        "labor_hours": 0.5,
+        "job_price": 354.99
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "48200",
+        "part_description": "20\" W Plastic Bin Module (incl 4x10\"W x 5.5\"H x 11\"D x 8 Dividers) Blue",
+        "vehicle_fitment": "Universal to most shelving for cargo vans",
+        "quantity_on_hand": 2,
+        "retail_price": 296.74,
+        "labor_hours": 0.2,
+        "job_price": 341.74
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40463",
+        "part_description": "Transit Rear and Side Door Threshold",
+        "vehicle_fitment": "Ford Transit Rear and Curbside Door",
+        "quantity_on_hand": 3,
+        "fam_cost": 190.80,
+        "retail_price": 352.11,
+        "labor_hours": 0.3,
+        "job_price": 419.61
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "48250",
+        "part_description": "10\" W Small Plastic Bins",
+        "vehicle_fitment": "Universal to most shelving for cargo vans",
+        "quantity_on_hand": 3,
+        "retail_price": 129.55,
+        "labor_hours": 0.3,
+        "job_price": 197.05
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40340",
+        "part_description": "6 Stacked Small Parts Bins",
+        "vehicle_fitment": "Universal to most shelving for cargo vans",
+        "quantity_on_hand": 3,
+        "fam_cost": 135.00,
+        "retail_price": 249.13,
+        "labor_hours": 0.3,
+        "job_price": 316.63
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "40090",
+        "part_description": "Steel 4 Drawer Cabinet 20\"W x 12\"H x 13.5\"D Grey",
+        "vehicle_fitment": "Fits on all steel Holman shelving units",
+        "quantity_on_hand": 4,
+        "fam_cost": 215.40,
+        "retail_price": 429.61,
+        "labor_hours": 0.3,
+        "job_price": 497.11
+      },
+      {
+        "brand": "Knaaack",
+        "part_number": "H-10011",
+        "part_description": "Jobsite Box",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 1,
+        "retail_price": 1050.00,
+        "labor_hours": 1.0,
+        "job_price": 1275.00
+      },
+      {
+        "brand": "Legend",
+        "part_number": "F0041-UKRS1A",
+        "part_description": "Universal Accessories Upstep RS3 - Transit Mount Kit",
+        "vehicle_fitment": "Ford Transit",
+        "quantity_on_hand": 1,
+        "retail_price": 163.00,
+        "labor_hours": 2.0,
+        "job_price": 613.00
+      },
+      {
+        "brand": "Legend",
+        "part_number": "ME0414-UKRS1A",
+        "part_description": "Universal Accessories Upstep RS3 - Sprinter Mount Kit",
+        "vehicle_fitment": "Mercedes Sprinter",
+        "quantity_on_hand": 1,
+        "retail_price": 217.00,
+        "labor_hours": 2.0,
+        "job_price": 667.00
+      },
+      {
+        "brand": "Legend",
+        "part_number": "637-151-1010",
+        "part_description": "Top Still Set For Promaster 136\" WB High Roof Van made from high grade Checker plate aluminium",
+        "vehicle_fitment": "ProMaster 136\"",
+        "quantity_on_hand": 1,
+        "retail_price": 367.20,
+        "labor_hours": 1.0,
+        "job_price": 592.20
+      },
+      {
+        "brand": "Legend",
+        "part_number": "147-151-1010",
+        "part_description": "Top Still Set For Transit - 148\" WB High Roof Van made from high grade Checker plate aluminium",
+        "quantity_on_hand": 1,
+        "retail_price": 253.80,
+        "labor_hours": 1.0,
+        "job_price": 478.80
+      },
+      {
+        "brand": "Legend",
+        "part_number": "147-151-1010",
+        "part_description": "Top Still Set For Sprinter 170\" STD WB High Roof Van made from high grade Checker plate aluminium",
+        "vehicle_fitment": "Sprinter 170\" EXT",
+        "quantity_on_hand": 1,
+        "retail_price": 393.00,
+        "labor_hours": 0.5,
+        "job_price": 505.50
+      },
+      {
+        "brand": "Legend",
+        "part_number": "147-151-1012",
+        "part_description": "Top Still Set For Mercedes Metris Van WB High Roof Van made from high grade Checker plate aluminium",
+        "vehicle_fitment": "Mercedes Metris",
+        "quantity_on_hand": 1,
+        "retail_price": 255.00,
+        "labor_hours": 0.5,
+        "job_price": 367.50
+      },
+      {
+        "brand": "Legend",
+        "part_number": "LF-U3RS-18",
+        "part_description": "Universal Accessories Upstep - Retractable Side Step",
+        "vehicle_fitment": "Universal To most Std and High Roof Vans",
+        "quantity_on_hand": 2,
+        "retail_price": 1465.00,
+        "labor_hours": 3.0,
+        "job_price": 2140.00
+      },
+      {
+        "brand": "Legend",
+        "part_number": "703-114-2613.HR",
+        "part_description": "DuraTherm Door Liner System For Ford Transit High roof Vans 5/16\" Thick Grey DuraTherm Cellular Panels",
+        "vehicle_fitment": "Universal To most Std and High Roof Vans",
+        "quantity_on_hand": 5,
+        "retail_price": 571.83,
+        "labor_hours": 1.0,
+        "job_price": 796.83
+      },
+      {
+        "brand": "Masterack",
+        "part_number": "02F596KP",
+        "part_description": "Side - Down L/R NV200 / CTYEX",
+        "vehicle_fitment": "Nissan NV200, Chevy City Express.",
+        "quantity_on_hand": 4,
+        "retail_price": 600.00,
+        "labor_hours": 1.0,
+        "job_price": 825.00
+      },
+      {
+        "brand": "Masterack",
+        "part_number": "02J648KP",
+        "part_description": "Dodge Promaster City Double Slide Down LR",
+        "vehicle_fitment": "Dodge Promaster",
+        "quantity_on_hand": 5,
+        "retail_price": 2094.00,
+        "labor_hours": 1.0,
+        "job_price": 2319.00
+      },
+      {
+        "brand": "OEM",
+        "part_number": "GM380-BOWW2",
+        "part_description": "CV EXPRS / GC Savana 03-10 P.S.M.L. (Crystal)",
+        "vehicle_fitment": "Chevy Expressand Savana vans from 2003-2010",
+        "quantity_on_hand": 8,
+        "retail_price": 100.00,
+        "labor_hours": 1.0,
+        "job_price": 325.00
+      },
+      {
+        "brand": "OEM",
+        "part_number": "GMCONSOLE1",
+        "part_description": "Chevy Express Sanavan Center console Drink Tray 03-12",
+        "vehicle_fitment": "Chevy Expressand Savana vans from 2003-2012",
+        "quantity_on_hand": 13,
+        "retail_price": 299.93,
+        "labor_hours": 0.5,
+        "job_price": 412.43
+      },
+      {
+        "brand": "Undercarrige",
+        "part_number": "N/A",
+        "part_description": "Storage Metal Box - Black",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 599.45,
+        "labor_hours": 0.5,
+        "job_price": 711.95
+      },
+      {
+        "brand": "VEVOR",
+        "part_number": "HXCZDJ-05",
+        "part_description": "Pickup Truck Crane, Folding Truck-Mounted Bed Crane with 1100 lbs Manual Winch. 360 degree swivel",
+        "vehicle_fitment": "Pickup Trucks",
+        "quantity_on_hand": 1,
+        "retail_price": 219.99,
+        "labor_hours": 1.0,
+        "job_price": 444.99
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "237",
+        "part_description": "Conduit Carrier Aluminum",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 1,
+        "retail_price": 1064.75,
+        "labor_hours": 0.7,
+        "job_price": 1222.25
+      }
+    ],
+    "lights": [
+      {
+        "brand": "Capetronix",
+        "part_number": "X002WCS967",
+        "part_description": "LED Interior Light Bar",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 5,
+        "retail_price": 29.99,
+        "labor_hours": 0.3,
+        "job_price": 97.49
+      },
+      {
+        "brand": "DORMAN",
+        "part_number": "923-108",
+        "part_description": "Third Break Light Assembly",
+        "vehicle_fitment": "Chevrolet 2022-03, GMC 2022-03",
+        "quantity_on_hand": 3,
+        "retail_price": 119.99,
+        "labor_hours": 0.3,
+        "job_price": 187.49
+      },
+      {
+        "brand": "Falcon",
+        "part_number": "F30 W-2 LT-COMBO",
+        "part_description": "30W Driving and dust - Fog Light",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 2,
+        "retail_price": 174.95,
+        "labor_hours": 0.5,
+        "job_price": 287.45
+      },
+      {
+        "brand": "N/A",
+        "part_number": "F20M-COMBO-50",
+        "part_description": "N/A (Light)",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 9,
+        "retail_price": 39.99,
+        "labor_hours": 0.1,
+        "job_price": 62.49
+      },
+      {
+        "brand": "YITA Motor",
+        "part_number": "X001Q8KXXMB",
+        "part_description": "Single row LED Light bar",
+        "vehicle_fitment": "Universal",
+        "quantity_on_hand": 3,
+        "retail_price": 29.00,
+        "labor_hours": 0.5,
+        "job_price": 141.50
+      }
+    ],
+    "window_screens": [
+      {
+        "brand": "Holman",
+        "part_number": "4071P",
+        "part_description": "Window Screen - Rear Hinged Doors (Set of 2)",
+        "vehicle_fitment": "Ram ProMaster",
+        "quantity_on_hand": 2,
+        "fam_cost": 78.60,
+        "retail_price": 145.05,
+        "labor_hours": 0.4,
+        "job_price": 235.05
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4076T",
+        "part_description": "2015+ Mid/Hgh roof Transit Rear Door Hinged (Set of 2)",
+        "vehicle_fitment": "Ford Transit Mid/High Roof",
+        "quantity_on_hand": 6,
+        "fam_cost": 72.60,
+        "retail_price": 133.98,
+        "labor_hours": 0.4,
+        "job_price": 223.98
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4075T",
+        "part_description": "Window Screen Sliding Door 2015+ - Transit Mid/High Roof",
+        "vehicle_fitment": "Ford Transit Mid/High Roof",
+        "quantity_on_hand": 4,
+        "retail_price": 210.98,
+        "labor_hours": 0.7,
+        "job_price": 368.48
+      },
+      {
+        "brand": "Holman",
+        "part_number": "4073T",
+        "part_description": "2015+ Low Roof Transit Rear Door Hinged (set of 2) Grey",
+        "vehicle_fitment": "Ford Transit Low Roof",
+        "quantity_on_hand": 8,
+        "fam_cost": 69.00,
+        "retail_price": 127.33,
+        "labor_hours": 0.4,
+        "job_price": 217.33
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4071T",
+        "part_description": "Window Screens 2015+ Low Roof Transit Side Door",
+        "vehicle_fitment": "2015+ Ford Transit Low Roof",
+        "quantity_on_hand": 4,
+        "fam_cost": 66.00,
+        "retail_price": 121.80,
+        "labor_hours": 0.2,
+        "job_price": 166.80
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4072C",
+        "part_description": "GM Rear Door Hinged Window Screen",
+        "vehicle_fitment": "Chevy Express and GMC Savana",
+        "quantity_on_hand": 5,
+        "fam_cost": 66.00,
+        "retail_price": 121.80,
+        "labor_hours": 0.4,
+        "job_price": 211.80
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4071C",
+        "part_description": "GM Side Door Hinged Window Screen",
+        "vehicle_fitment": "Chevy Express and GMC Savana",
+        "quantity_on_hand": 7,
+        "fam_cost": 51.00,
+        "retail_price": 121.80,
+        "labor_hours": 0.4,
+        "job_price": 211.80
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4070T",
+        "part_description": "2015+ Low Roof Transit Side Door Hinge (set of 2) Grey",
+        "vehicle_fitment": "2015+ Transit Low Roof",
+        "quantity_on_hand": 8,
+        "fam_cost": 66.00,
+        "retail_price": 126.82,
+        "labor_hours": 0.4,
+        "job_price": 216.82
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4079T",
+        "part_description": "2014+ Transit Connect Rear Door Hinged",
+        "vehicle_fitment": "2014+ Transit Connect",
+        "quantity_on_hand": 1,
+        "fam_cost": 72.60,
+        "retail_price": 133.98,
+        "labor_hours": 0.4,
+        "job_price": 223.98
+      },
+      {
+        "brand": "Kargo Master",
+        "part_number": "4072T",
+        "part_description": "Transit Rear Door (Setup 2) Gray",
+        "vehicle_fitment": "Transit Rear door",
+        "quantity_on_hand": 2,
+        "retail_price": 134.00,
+        "labor_hours": 1.0,
+        "job_price": 359.00
+      },
+      {
+        "brand": "Maserack",
+        "part_number": "02G488KP",
+        "part_description": "Transit LR RR Window Screen (2/Set)",
+        "vehicle_fitment": "Ford Transit",
+        "quantity_on_hand": 2,
+        "retail_price": 114.60,
+        "labor_hours": 0.5,
+        "job_price": 227.10
+      },
+      {
+        "brand": "Masterack",
+        "part_number": "02G479KP",
+        "part_description": "Promaster Side Sliding Window Screen",
+        "vehicle_fitment": "Ram ProMaster",
+        "quantity_on_hand": 8,
+        "retail_price": 160.00,
+        "labor_hours": 0.5,
+        "job_price": 272.50
+      },
+      {
+        "brand": "Masterack",
+        "part_number": "02F598KP",
+        "part_description": "Window Screen NV200 Rear DRS",
+        "vehicle_fitment": "Nissan NV200",
+        "quantity_on_hand": 2,
+        "retail_price": 165.00,
+        "labor_hours": 0.5,
+        "job_price": 277.50
+      },
+      {
+        "brand": "Masterack",
+        "part_number": "02H819KP",
+        "part_description": "Transit LR SD Window Screen 2/Set",
+        "vehicle_fitment": "Ford Transit",
+        "quantity_on_hand": 6,
+        "retail_price": 186.64,
+        "labor_hours": 1.0,
+        "job_price": 411.64
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "88041",
+        "part_description": "Van Widnow Screen F/S Sprinter Row",
+        "vehicle_fitment": "Mercedes Sprinter",
+        "quantity_on_hand": 2,
+        "retail_price": 196.42,
+        "labor_hours": 0.7,
+        "job_price": 353.92
+      },
+      {
+        "brand": "Weather Guard",
+        "part_number": "88040",
+        "part_description": "Window Screen Sprinter Sliding Door",
+        "vehicle_fitment": "Mercedes Sprinter",
+        "quantity_on_hand": 1,
+        "retail_price": 163.00,
+        "labor_hours": 0.7,
+        "job_price": 320.50
+      },
+      {
+        "brand": "Masterack",
+        "part_number": "02J651KP",
+        "part_description": "Promaster City Rear Window SCRN",
+        "vehicle_fitment": "Promaster City",
+        "quantity_on_hand": 4,
+        "labor_hours": 0.5,
+        "job_price": 112.50
+      }
+    ]
+  }
+}
