@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - Fam Vans Parts Store</title>
+    <link rel="icon" type="image/x-icon" href="../Images/fvlogo.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZmCULaMxtX6wY5gUIU3jv6C5i0jeKla4NKXo8kz3AhiU5T5r+E6ztJQ9f6pG9nK5eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <script src="https://kit.fontawesome.com/037d909396.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../Styles/common.css">
+    <link rel="stylesheet" href="../Styles/products-page.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="productss.html">Products</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="index.html" class="logo-link"><img class="logo" src="../Images/FAMparts.png" alt="Fam Vans Parts Logo"></a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li>
+                    <div class="cart">
+                        <a href="search.html" aria-label="Search"><i class="fa-solid fa-magnifying-glass"></i></a>
+                        <a href="cart.html" aria-label="Shopping Cart"><i class="fa-solid fa-truck"></i></a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- <div style="padding-top: 80px;">
+            <h1 style="text-align: center; margin: 40px 0 20px 0; font-size: 36px; color: #333;">Our Complete Product Catalog</h1>
+            <p style="text-align: center; color: #666; margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto;">
+                Browse our extensive selection of commercial van parts and accessories from industry-leading brands.
+            </p>
+        </div> -->
+
+        <!-- Two-column layout: left filter sidebar + main products -->
+        <div class="products-layout">
+            <aside class="filters-sidebar">
+                <h2>Filters</h2>
+
+                <div class="search-wrapper">
+                    <input type="text" id="product-search" placeholder="Search products by name or part number..." class="search-input">
+                    <i class="fas fa-search"></i>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Category</h4>
+                    <select id="category-filter" class="filter-select" title="Filter by category">
+                        <option value="">All Categories</option>
+                        <option value="bulkheads_dividers_partitions_panels">Partitions & Dividers</option>
+                        <option value="mounts_clamp_and_lock">Mounts & Locks</option>
+                        <option value="liftgates_and_parts">Liftgates & Parts</option>
+                    </select>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Brand</h4>
+                    <select id="brand-filter" class="filter-select" title="Filter by brand">
+                        <option value="">All Brands</option>
+                    </select>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Price</h4>
+                    <select id="price-filter" class="filter-select" title="Filter by price">
+                        <option value="">All Prices</option>
+                        <option value="0-500">Under $500</option>
+                        <option value="500-1000">$500 - $1000</option>
+                        <option value="1000-2000">$1000 - $2000</option>
+                        <option value="2000">$2000+</option>
+                    </select>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Stock</h4>
+                    <select id="stock-filter" class="filter-select" title="Filter by stock availability">
+                        <option value="">All Stock</option>
+                        <option value="in-stock">In Stock Only</option>
+                        <option value="out-of-stock">Out of Stock</option>
+                    </select>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Sort</h4>
+                    <select id="sort-select" class="filter-select" title="Sort products">
+                        <option value="random">Random</option>
+                        <option value="price-low">Price: Low to High</option>
+                        <option value="price-high">Price: High to Low</option>
+                        <option value="name">Name: A-Z</option>
+                        <option value="newest">Newest</option>
+                    </select>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Vehicle Fit</h4>
+                    <select id="year-filter" class="filter-select" title="Filter by year"><option value="">Any Year</option></select>
+                    <select id="make-filter" class="filter-select" title="Filter by make"><option value="">Any Make</option></select>
+                    <select id="model-filter" class="filter-select" title="Filter by model"><option value="">Any Model</option></select>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Part Type</h4>
+                    <div class="filter-list">
+                        <label><input type="checkbox" name="partType" value="electrical"> Electrical</label>
+                        <label><input type="checkbox" name="partType" value="hardware"> Hardware</label>
+                        <label><input type="checkbox" name="partType" value="body"> Body / Panels</label>
+                        <label><input type="checkbox" name="partType" value="accessories"> Accessories</label>
+                    </div>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Material</h4>
+                    <div class="filter-list">
+                        <label><input type="checkbox" name="material" value="steel"> Steel</label>
+                        <label><input type="checkbox" name="material" value="aluminum"> Aluminum</label>
+                        <label><input type="checkbox" name="material" value="plastic"> Plastic</label>
+                    </div>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Condition</h4>
+                    <select id="condition-filter" class="filter-select" title="Filter by condition">
+                        <option value="">Any</option>
+                        <option value="new">New</option>
+                        <option value="reman">Remanufactured</option>
+                        <option value="used">Used</option>
+                    </select>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Vendor</h4>
+                    <select id="vendor-filter" class="filter-select" title="Filter by vendor"><option value="">All Vendors</option></select>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Rating</h4>
+                    <select id="rating-filter" class="filter-select" title="Filter by rating">
+                        <option value="">Any Rating</option>
+                        <option value="4">4 stars & up</option>
+                        <option value="3">3 stars & up</option>
+                        <option value="2">2 stars & up</option>
+                    </select>
+                </div>
+
+                <button id="clear-filters" class="clear-filters-btn">Clear Filters</button>
+            </aside>
+
+            <section class="products-main">
+                <div class="product-categories" id="product-categories"></div>
+                <div class="pagination" id="pagination"></div>
+            </section>
+        </div>
+
+        <!-- Quick View Modal -->
+        <div id="quickViewModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div class="modal-body" id="modalBody"></div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- <footer>
+        <p>&copy; 2026 Fam Vans - The Parts Store. All rights reserved.</p>
+    </footer> -->
+
+    <script type="module" src="../Scripts/index.js"></script>
+</body>
+</html>
