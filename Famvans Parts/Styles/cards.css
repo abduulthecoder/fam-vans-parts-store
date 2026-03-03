@@ -1,0 +1,26 @@
+/* cards.css - basic card styling */
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 16px;
+    background-color: #fff;
+    margin-bottom: 16px;
+}
+
+.card img {
+    max-width: 100%;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.card h3 {
+    margin: 0 0 8px;
+    font-size: 1.25rem;
+}
+
+.card p {
+    margin: 0;
+    color: #555;
+}

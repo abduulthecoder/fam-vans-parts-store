@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search - Fam Vans Parts Store</title>
+    <link rel="icon" type="image/x-icon" href="../Images/fvlogo.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZmCULaMxtX6wY5gUIU3jv6C5i0jeKla4NKXo8kz3AhiU5T5r+E6ztJQ9f6pG9nK5eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <script src="https://kit.fontawesome.com/037d909396.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../Styles/common.css">
+    <link rel="stylesheet" href="../Styles/cards.css">
+    <link rel="stylesheet" href="../Styles/footer.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="index.html" class="logo-link"><img class="logo" src="../Images/FAMparts.png" alt="Fam Vans Parts Logo"></a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li>
+                    <div class="cart">
+                        <a href="search.html" aria-label="Search"><i class="fa-solid fa-magnifying-glass"></i></a>
+                        <a href="#" class="cart-trigger" aria-label="Shopping Cart"><i class="fa-solid fa-truck"></i></a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main style="padding: 40px 20px;">
+        <h1 style="text-align:center;">Search Parts</h1>
+        <div style="max-width:900px;margin:0 auto;">
+            <input id="search-input" type="search" placeholder="Search by part name or number" style="width:100%;padding:12px;margin-bottom:12px;" />
+            <div id="search-results" class="cards-grid"></div>
+        </div>
+    </main>
+
+    <script>
+    async function fetchInventory(){
+        const res = await fetch('../Models/inventory.json');
+        const data = await res.json();
+        const inventory = data.inventory || data;
+        const all = [];
+        Object.keys(inventory).forEach(k=>{ (inventory[k]||[]).forEach(p=> all.push({...p, category:k})); });
+        return all;
+    }
+    (async function(){
+        const items = await fetchInventory();
+        const input = document.getElementById('search-input');
+        const out = document.getElementById('search-results');
+        function render(list){ out.innerHTML = list.map(p=>`<div class="card"><h3>${p.part_description||p.name||'Product'}</h3><p class="muted">${p.part_number||''}</p><p>${p.price?('$'+p.price):''}</p><p><a href="product-page.html?id=${encodeURIComponent(p.part_number||p.id||p.slug||'demo')}">View</a></p></div>`).join(''); }
+        input.addEventListener('input', ()=>{
+            const q = input.value.trim().toLowerCase();
+            if(!q){ out.innerHTML=''; return; }
+            const filtered = items.filter(p=> (p.part_description||p.name||'').toLowerCase().includes(q) || (p.part_number||'').toLowerCase().includes(q));
+            render(filtered.slice(0,50));
+        });
+    })();
+    </script>
+
+    <!-- Cart Popover -->
+    <div class="cart-popover-overlay"></div>
+    <div class="cart-popover">
+      <div class="cart-popover-header">
+        <h2>Shopping Cart</h2>
+        <button class="cart-popover-close"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="cart-popover-contents"></div>
+      <div class="cart-popover-footer">
+        <div class="cart-popover-total"><span>Total:</span><span>$0.00</span></div>
+        <button class="checkout-btn">Proceed to Checkout</button>
+        <button class="clear-cart-btn">Clear Cart</button>
+      </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Fam Vans - The Parts Store. All rights reserved.</p>
+    </footer>
+
+    <script src="../Scripts/cartPopover.js"></script>
+</body>
+</html>
