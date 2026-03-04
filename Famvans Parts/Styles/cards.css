@@ -1,0 +1,153 @@
+/* cards.css - enhanced card styling */
+
+.card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 16px;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    border-color: #ffc107;
+}
+
+.card img {
+    max-width: 100%;
+    display: block;
+    margin-bottom: 16px;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+.card h3 {
+    margin: 0 0 12px;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    line-height: 1.4;
+}
+
+.card h4 {
+    margin: 0 0 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.card p {
+    margin: 0 0 10px;
+    color: #555;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.card p:last-child {
+    margin-bottom: 0;
+}
+
+.card p.muted {
+    color: #999;
+    font-size: 13px;
+}
+
+.card p.price {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #ffc107;
+    margin: 10px 0;
+}
+
+.card a {
+    color: #1a73e8;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s ease;
+}
+
+.card a:hover {
+    color: #ffc107;
+}
+
+/* Grid layouts for cards */
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+    margin: 20px 0;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+/* store card specifics */
+.store-card {
+    background: linear-gradient(135deg, #ffffff 0%, #fafafa 100%);
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    padding: 24px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.store-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.store-header i {
+    font-size: 36px;
+    color: #ffc107;
+}
+
+.store-address,
+.store-hours {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.store-card .btn {
+    align-self: start;
+    margin-top: 8px;
+}
+
+@media(max-width:768px) {
+    .store-header i {
+        font-size: 28px;
+    }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .cards-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 16px;
+    }
+
+    .contact-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .card {
+        padding: 16px;
+    }
+
+    .card h3 {
+        font-size: 1.15rem;
+    }
+}
