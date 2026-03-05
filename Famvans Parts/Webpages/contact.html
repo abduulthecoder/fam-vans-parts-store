@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Fam Vans Parts Store</title>
+    <link rel="icon" type="image/x-icon" href="../Images/fvlogo.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZmCULaMxtX6wY5gUIU3jv6C5i0jeKla4NKXo8kz3AhiU5T5r+E6ztJQ9f6pG9nK5eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <script src="https://kit.fontawesome.com/037d909396.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../Styles/common.css">
+    <link rel="stylesheet" href="../Styles/cards.css">
+    <link rel="stylesheet" href="../Styles/pages.css">
+    <link rel="stylesheet" href="../Styles/footer.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="index.html" class="logo-link"><img class="logo" src="../Images/FAMparts.png" alt="Fam Vans Parts Logo"></a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li>
+                    <div class="cart">
+                        <a href="search.html" aria-label="Search"><i class="fa-solid fa-magnifying-glass"></i></a>
+                        <a href="#" class="cart-trigger" aria-label="Shopping Cart"><i class="fa-solid fa-truck"></i></a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Contact Us</h1>
+        <div class="contact-grid">
+            <div class="card store-card">
+                <div class="store-header">
+                    <i class="fa-solid fa-map-marker-alt"></i>
+                    <div>
+                        <h3>Visit Our Store</h3>
+                        <p><strong>FAM Vans Parts</strong></p>
+                    </div>
+                </div>
+                <p class="store-address">10900 Kalama River Ave<br>Fountain Valley, CA</p>
+                <p class="store-hours"><strong>Hours:</strong><br>Mon–Fri: 8 AM – 5 PM<br>Sat & Sun: Closed</p>
+                <a href="https://www.google.com/maps/search/?api=1&query=10900+Kalama+River+Ave+Fountain+Valley+CA" target="_blank" class="btn btn-small">Open in Maps</a>
+            </div>
+            <div class="card">
+                <h3><i class="fa-solid fa-phone"></i> Call or Email</h3>
+                <p><strong>Phone:</strong><br><a href="tel:+1(714) 274-1148">(714) 274-1148</a></p>
+                <p><strong>Email:</strong><br><a href="mailto:parts@famvans.com">parts@famvans.com</a></p>
+                <p>Fast response during business hours</p>
+            </div>
+            <div class="card contact-form-section">
+                <h3><i class="fa-solid fa-message"></i> Send a Message</h3>
+                <form id="contact-form">
+                    <label for="c-name">Your Name</label>
+                    <input type="text" id="c-name" placeholder="John Doe" required>
+
+                    <label for="c-email">Email Address</label>
+                    <input type="email" id="c-email" placeholder="you@example.com" required>
+
+                    <label for="c-subject">Subject</label>
+                    <input type="text" id="c-subject" placeholder="How can we help?" required>
+
+                    <label for="c-message">Message</label>
+                    <textarea id="c-message" placeholder="Tell us about your inquiry..." required></textarea>
+
+                    <button type="submit" class="btn">Send Message</button>
+                </form>
+                <div id="contact-msg"></div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+    document.getElementById('contact-form').addEventListener('submit', function(e){
+        e.preventDefault();
+        const name = document.getElementById('c-name').value.trim();
+        const email = document.getElementById('c-email').value.trim();
+        const subject = document.getElementById('c-subject').value.trim();
+        const message = document.getElementById('c-message').value.trim();
+        const msgDiv = document.getElementById('contact-msg');
+        
+        if(!name||!email||!subject||!message){ 
+            msgDiv.className = 'error';
+            msgDiv.innerHTML = '<i class="fa-solid fa-circle-exclamation"></i> Please complete all fields.'; 
+            return; 
+        }
+        
+        const mailtoLink = `mailto:parts@famvans.com?subject=${encodeURIComponent(subject + ' (from ' + name + ')')}&body=${encodeURIComponent(message + '\n\n---\nFrom: ' + name + ' <' + email + '>')}`;
+        
+        msgDiv.className = 'success';
+        msgDiv.innerHTML = '<i class="fa-solid fa-circle-check"></i> Message ready! <a href="' + mailtoLink + '">Click here to send via your email client</a>, or copy the message text and send it manually to <strong>parts@famvans.com</strong>';
+    });
+    </script>
+
+    <!-- Cart Popover -->
+    <div class="cart-popover-overlay"></div>
+    <div class="cart-popover">
+      <div class="cart-popover-header">
+        <h2>Shopping Cart</h2>
+        <button class="cart-popover-close"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="cart-popover-contents"></div>
+      <div class="cart-popover-footer">
+        <div class="cart-popover-total"><span>Total:</span><span>$0.00</span></div>
+        <button class="checkout-btn">Proceed to Checkout</button>
+        <button class="clear-cart-btn">Clear Cart</button>
+      </div>
+    </div>
+
+    <footer>
+      <div class="footer-container">
+        <!-- About Section -->
+        <div class="footer-section">
+          <img class="footer-logo" src="../Images/fv-logo-yellow.png" alt="Fam Vans Logo">
+          <p class="footer-about">Your trusted source for high-quality parts and accessories for commercial cargo vans and work vehicles in Los Angeles and Orange County.</p>
+          <div class="social-links">
+            <a href="https://www.facebook.com/famvans/" aria-label="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/famvans/" aria-label="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.yelp.com/biz/fam-vans-fountain-valley-2" aria-label="Yelp" target="_blank"><i class="fab fa-yelp"></i></a>
+            <a href="https://www.youtube.com/@famvans" aria-label="YouTube" target="_blank"><i class="fab fa-youtube"></i></a>
+          </div>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="footer-section">
+          <h3>Quick Links</h3>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="products.html">Products</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact Us</a>
+            <a href="search.html">Search</a>
+          </div>
+        </div>
+
+        <!-- Contact Info -->
+        <div class="footer-section">
+          <h3>Contact Us</h3>
+          <div class="footer-contact-info">
+            <div class="contact-item">
+              <i class="fas fa-map-marker-alt"></i>
+              <span>10900 Kalama River Ave, Fountain Valley, CA 92708</span>
+            </div>
+            <div class="contact-item">
+              <i class="fas fa-phone"></i>
+              <a href="tel:+17142741148">(714) 274-1148</a>
+            </div>
+            <div class="contact-item">
+              <i class="fas fa-envelope"></i>
+              <a href="mailto:parts@famvans.com">parts@famvans.com</a>
+            </div>
+            <div class="contact-item">
+              <i class="fas fa-clock"></i>
+              <span>Mon - Fri: 9AM - 5PM PST</span>
+              <span>Sat: 9AM - 1PM PST</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Newsletter -->
+        <div class="footer-section">
+          <h3>Stay Updated</h3>
+          <p>Subscribe to our newsletter for the latest parts, deals, and industry news.</p>
+          <form class="newsletter-form">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2026 Fam Vans Parts Store. All rights reserved.</p>
+        <div class="footer-bottom-links">
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms of Service</a>
+          <a href="#">Shipping Info</a>
+          <a href="#">Returns</a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="../Scripts/cartPopover.js"></script>
+</body>
+</html>
